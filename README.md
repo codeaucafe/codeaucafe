@@ -26,7 +26,7 @@
 - [Pull Request #156](https://github.com/ktrysmt/go-bitbucket/pull/156): This PR simplifies TagOptions and BranchOptions types into a single RefOptions type (since git tags and branches are both refs) and adds DeleteBranch and DeleteTag functionality.
 
 [diagrams](https://github.com/mingrammer/diagrams)
-- [v0.23.2](https://github.com/mingrammer/diagrams/discussions/828#discussioncomment-4673351): Update GCP icons using the [official, updated GCP icons](https://cloud.google.com/icons). [Pull Request #666]([https://github.com/mingrammer/diagrams/issues/554](https://github.com/mingrammer/diagrams/pull/666).
+- [v0.23.2](https://github.com/mingrammer/diagrams/discussions/828#discussioncomment-4673351): Update GCP icons using the [official, updated GCP icons](https://cloud.google.com/icons). [Pull Request #666](https://github.com/mingrammer/diagrams/pull/666).
 
 ### ![Github All Contributors](https://img.shields.io/badge/DataDavD-Verified-brightgreen) I sign all my commits
 
