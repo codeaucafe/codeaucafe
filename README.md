@@ -11,6 +11,9 @@
 ### 📚 Outside of software engineering and tech, I'm learning French, snowboard with my brother and friends, and love traveling with my wife.
 
 ### :desktop_computer: Open Source Software Contributions:
+[delve](https://github.com/go-delve/delve)
+- [Pull Request #3987](https://github.com/go-delve/delve/pull/3987): Fix build version bug; use commit instead of version file blob hash.
+
 [in-toto/witness](https://github.com/in-toto/witness)
 - [v0.2.0](https://github.com/in-toto/witness/releases/tag/v0.2.0): Add the ability for users to set what hash algorithms they want to use for digest calculation. [Pull Request #292](https://github.com/in-toto/witness/pull/292)
 - [v0.5.2](https://github.com/in-toto/witness/releases/tag/v0.5.2): Trivial nit change to add shothand vars to two common witness run options. [Pull Request #441](https://github.com/in-toto/witness/pull/441)
