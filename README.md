@@ -44,13 +44,16 @@
 #### Software Engineering
 - Backend software engineering
 - Web Development and REST APIs (Django, React, Go's net/http, etc.)
-- protobuf and gRPC
+- gRPC and Protocol Buffers (protobuf)
 - concurrent programming (goroutines, channel, select, asyncio, concurrent.futures, etc.)
 - React
 - batch and stream data processing (Apache Spark and Presto)
 - OOP
 - TTD
-#### DevOps, GitOps, reliability, and monitoring
+#### Cloud
+- AWS: SQS, Lambda, RDS (for PostgreSQL), S3, EMR, EC2, SNS, AWS SDK for Go and Python (boto3), CDK & CloudFormation, ElastiCache, localstack, etc.
+- GCP: CloudSQL, Pub/Sub, CLoud Deploy, Google Kubernetes Engine (GKE), GCP SDK and client libraries (Go), MemoryStore (Redis)
+#### DevOps, GitOps, reliability, monitoring, & releases
 - Docker and Docker Compose
 - Kubernetes
 - Bitbucket Pipelines
@@ -62,9 +65,9 @@
 - Statuspage
 - statsd
 - SonarQube
-#### Cloud
-- AWS: SQS, Lambda, S3, EMR, EC2, SNS, aws-sdk-go, boto3, etc.
-- LocalStack
+- New Relic
+- LaunchDarkly (feature flags)
+- Elastisearch
 #### SQL
 - PostgreSQL
 - SparkSQL
@@ -72,9 +75,10 @@
 - Presto
 #### Data Engineering
 - writing complex SQL queries, mostly SparkSQL
-- building and maintaining big data pipelines AND platforms
-- swimming in data lakes
-- organizing data warehouses
+- building and maintaining big data pipelines (TBs of procesing and storage) AND platforms
+- data modeling
+- data lakes
+- data warehouses
 - distributed data processing
 - backend data services and APIs
 #### Data Tech
