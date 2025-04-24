@@ -33,7 +33,7 @@
 [diagrams](https://github.com/mingrammer/diagrams)
 - [v0.23.2](https://github.com/mingrammer/diagrams/discussions/828#discussioncomment-4673351): Update GCP icons using the [official, updated GCP icons](https://cloud.google.com/icons). [Pull Request #666](https://github.com/mingrammer/diagrams/pull/666).
 
-### ![Github All Contributors](https://img.shields.io/badge/DataDavD-Verified-brightgreen) I sign all my commits
+### ![Github All Contributors](https://img.shields.io/badge/codeaucafe-Verified-brightgreen) I sign all my commits
 
 ### 🚀 Skills
 #### Programming Languages
@@ -43,6 +43,7 @@
 #### Software Engineering
 - Backend software engineering
 - Web Development and REST APIs (Django, React, Go's net/http, etc.)
+- protobuf and gRPC
 - concurrent programming (goroutines, channel, select, asyncio, concurrent.futures, etc.)
 - React
 - batch and stream data processing (Apache Spark and Presto)
@@ -50,6 +51,7 @@
 - TTD
 #### DevOps, GitOps, reliability, and monitoring
 - Docker and Docker Compose
+- Kubernetes
 - Bitbucket Pipelines
 - GitHub Actions
 - Splunk
@@ -63,10 +65,10 @@
 - AWS: SQS, Lambda, S3, EMR, EC2, SNS, aws-sdk-go, boto3, etc.
 - LocalStack
 #### SQL
+- PostgreSQL
 - SparkSQL
 - HiveSQL
 - Presto
-- PostgreSQL
 #### Data Engineering
 - writing complex SQL queries, mostly SparkSQL
 - building and maintaining big data pipelines AND platforms
@@ -81,7 +83,7 @@
 - Apache Airflow
 - PyData packages
 - Apache Flink (wish to use more)
-- Apache Pulsar (wish to use much more; Pulsar > Kafka)
+- Apache Pulsar (wish to use much more)
 #### Agile and Modern Software Development Tools
 - Jira Software
 - Confluence
