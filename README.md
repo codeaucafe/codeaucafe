@@ -33,7 +33,8 @@
 [diagrams](https://github.com/mingrammer/diagrams)
 - [v0.23.2](https://github.com/mingrammer/diagrams/discussions/828#discussioncomment-4673351): Update GCP icons using the [official, updated GCP icons](https://cloud.google.com/icons). [Pull Request #666](https://github.com/mingrammer/diagrams/pull/666).
 
-### ![Github All Contributors](https://img.shields.io/badge/codeaucafe-Verified-brightgreen) I sign all my commits
+### I sign all my commits
+![Github All Contributors](https://img.shields.io/badge/codeaucafe-Verified-brightgreen)
 
 ### 🚀 Skills
 #### Programming Languages
