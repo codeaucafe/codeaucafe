@@ -51,7 +51,7 @@
 - OOP
 - TTD
 #### Cloud
-- AWS: SQS, Lambda, RDS (for PostgreSQL), S3, EMR, EC2, SNS, AWS SDK for Go and Python (boto3), CDK & CloudFormation, ElastiCache, localstack, etc.
+- AWS: SQS, Lambda, RDS (for PostgreSQL), S3, EMR, EC2, SNS, AWS SDK for Go and Python (boto3), CDK & CloudFormation, ElastiCache (Redis), localstack
 - GCP: CloudSQL, Pub/Sub, CLoud Deploy, Google Kubernetes Engine (GKE), GCP SDK and client libraries (Go), MemoryStore (Redis)
 #### DevOps, GitOps, reliability, monitoring, & releases
 - Docker and Docker Compose
@@ -67,7 +67,6 @@
 - SonarQube
 - New Relic
 - LaunchDarkly (feature flags)
-- Elastisearch
 #### SQL
 - PostgreSQL
 - SparkSQL
