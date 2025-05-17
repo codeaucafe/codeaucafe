@@ -11,6 +11,9 @@
 ### 📚 Outside of software engineering and tech, I'm learning French, snowboard with my brother and friends, and love traveling with my wife.
 
 ### :desktop_computer: Open Source Software Contributions:
+[dolt](https://github.com/dolthub/dolt)
+- [v1.53.5](https://github.com/dolthub/dolt/releases/tag/v1.53.5): Add CLI feature to support importing CSV and PSV files without header rows.
+
 [delve](https://github.com/go-delve/delve)
 - [Pull Request #3987](https://github.com/go-delve/delve/pull/3987): Fix build version bug; use commit instead of version file blob hash.
 
