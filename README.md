@@ -57,43 +57,25 @@
 
 #### Tech Stack
 
-##### Cloud
-  - AWS: SQS, Lambda, RDS (for PostgreSQL), S3, EMR, EC2, SNS, AWS SDK for Go and Python (boto3), CDK & CloudFormation, localstack
-  - GCP: Cloud SQL, Pub/Sub, Cloud Deploy, Google Kubernetes Engine (GKE), GCP SDK and client libraries (Go), MemoryStore (Redis)
+##### Cloud & Infrastructure
+- **AWS**: SQS, Lambda, RDS (PostgreSQL), S3, EMR, EC2, SNS, ElastiCache (Redis), CDK & CloudFormation, AWS SDK (Go/Python/boto3), localstack
+- **GCP**: Cloud SQL, Pub/Sub, Google Kubernetes Engine (GKE), MemoryStore (Redis), GCP SDK (Go), Cloud Deploy
+- **Containers**: Docker, Kubernetes
 
-##### Data Storage
-  - RDBMS: PostgreSQL, Microsoft SQL Server
-  - Cache: Redis
+##### CI/CD & Automation
+- GitHub Actions, CircleCI, Bitbucket Pipelines, GCP Cloud Deploy
 
-##### DevOps & Infrastructure
-- Docker and Docker Compose
-- Kubernetes
-- Bitbucket Pipelines
-- GitHub Actions
+##### Databases & Storage
+- PostgreSQL, Microsoft SQL Server, Redis
 
-##### Monitoring & Observability
-- New Relic
-- Splunk
-- SignalFX
-- Sentry
-- statsd
-
-##### Incident Management & Alerting
-- Opsgenie
-- Statuspage
+##### Observability & Operations
+- New Relic, Splunk, Sentry, Opsgenie, Statuspage, statsd
 
 ##### Code Quality & Feature Management
-- SonarQube
-- LaunchDarkly (feature flags)
+- SonarQube, LaunchDarkly (feature flags)
 
-##### Big Data and Data Engineering
-- Apache Spark
-- Databricks
-- Apache Airflow
-- PyData packages
-- SparkSQL
-- HiveSQL
-- Presto
+##### Data Engineering
+- Apache Spark, Databricks, Apache Airflow, SparkSQL, HiveSQL, Presto
 
 ### ⌨️ I am currently using a [Boardsource lulu](https://boardsource.xyz/store/61d0b772319a1f3cc53ba2fb) with Alpaca V2 linear switches lubed with 205g0 and official Star Wars Galactic Empire DSA keycaps from [NovelKeys](https://novelkeys.com/products/star-wars-galactic-empire-dsa-keycap-set) as my daily driver. What does it look like? [Find out](https://imgur.com/a/aZB5aaT)! Check out my [QMK Layout](https://github.com/codeaucafe/qmk_firmware/blob/ddansby/lulu-keymap/keyboards/boardsource/lulu/keymaps/datadavd/keymap.c) too!
 
