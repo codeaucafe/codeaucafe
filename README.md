@@ -1,8 +1,8 @@
-### 👋 Hey there friend!!! My name is **David Dansby**. I am a self-taught software engineer at Atlassian. I have a strong passion for distributed systems, microservices, secure data processing systems, Go, Python, and rare single-origin coffees. When time allows you can find me tinkering with one of my split mechanical keyboards. Recently, I've been getting into home automation. 
+### 👋 Hey there friend!!! My name is **David Dansby**. I am a software engineer at Bestow. I have a strong passion for distributed systems, microservices, secure data processing systems, Go, Python, and rare single-origin coffees. When time allows you can find me tinkering with one of my split mechanical keyboards. Recently, I've been getting into home automation. 
 
-### 📰 FYI: you may have previously seen me referred to as DataDavd or datadavd online which is relic username from my past data engineering days, but I now go by my codeaucafe username on GitHub. 
+### 💪 I’m currently a Senior Software Engineer at Bestow [(check us out)](https://techcrunch.com/2025/05/13/insurtech-bestow-lands-120m-series-d-from-goldman-sachs-smith-point-capital/). Previously, I was a software engineer at Atlassian on the Jira Align and Bitbucket Cloud teams.
 
-### 💪 I’m currently working remotely at Atlassian as a Software Engineer on our Jira Align product (mostly working on the C#/.NET backend sprinkled with some frontend work in React). Previously, I worked on the Bitbucket Cloud Data Privacy and Security team as a software engineer using Go and Python with a focus on all things security and data protection. And before that, I was a data engineer on the Data Analytics and Engineering team at Atlassian that owned the core data pipelines (we typically ingested 500GB+ of data each day into our pipelines; and processed even more!!!). 
+### 📰 Note: I previously went by DataDavd/datadavd online (a relic from my data engineering days), but now use codeaucafe as my GitHub username.
 
 ### :mount_fuji: I'm located in the greater Seattle area.
 
@@ -43,69 +43,65 @@
 #### Programming Languages
 - Go
 - Python
-- Javascript
+- JavaScript
+- C#
+
 #### Software Engineering
-- Backend software engineering
-- Web Development and REST APIs (Django, React, Go's net/http, etc.)
+- Backend: Distributed systems and microservices
 - gRPC and Protocol Buffers (protobuf)
+- Web Development and REST APIs (Django, React, Go's net/http, etc.)
 - concurrent programming (goroutines, channel, select, asyncio, concurrent.futures, etc.)
-- React
-- batch and stream data processing (Apache Spark and Presto)
-- OOP
-- TTD
-#### Cloud
-- AWS: SQS, Lambda, RDS (for PostgreSQL), S3, EMR, EC2, SNS, AWS SDK for Go and Python (boto3), CDK & CloudFormation, ElastiCache (Redis), localstack
-- GCP: CloudSQL, Pub/Sub, CLoud Deploy, Google Kubernetes Engine (GKE), GCP SDK and client libraries (Go), MemoryStore (Redis)
-#### DevOps, GitOps, reliability, monitoring, & releases
+- software architecture and system design
+- CLI tooling: Cobra
+- Frontend: React
+
+#### Tech Stack
+
+##### Cloud
+  - AWS: SQS, Lambda, RDS (for PostgreSQL), S3, EMR, EC2, SNS, AWS SDK for Go and Python (boto3), CDK & CloudFormation, localstack
+  - GCP: Cloud SQL, Pub/Sub, Cloud Deploy, Google Kubernetes Engine (GKE), GCP SDK and client libraries (Go), MemoryStore (Redis)
+
+##### Data Storage
+  - RDBMS: PostgreSQL, Microsoft SQL Server
+  - Cache: Redis
+
+##### DevOps & Infrastructure
 - Docker and Docker Compose
 - Kubernetes
 - Bitbucket Pipelines
 - GitHub Actions
+
+##### Monitoring & Observability
+- New Relic
 - Splunk
 - SignalFX
 - Sentry
+- statsd
+
+##### Incident Management & Alerting
 - Opsgenie
 - Statuspage
-- statsd
+
+##### Code Quality & Feature Management
 - SonarQube
-- New Relic
 - LaunchDarkly (feature flags)
-#### SQL
-- PostgreSQL
+
+##### Big Data and Data Engineering
+- Apache Spark
+- Databricks
+- Apache Airflow
+- PyData packages
 - SparkSQL
 - HiveSQL
 - Presto
-#### Data Engineering
-- writing complex SQL queries, mostly SparkSQL
-- building and maintaining big data pipelines (TBs of procesing and storage) AND platforms
-- data modeling
-- data lakes
-- data warehouses
-- distributed data processing
-- backend data services and APIs
-#### Data Tech
-- lakeFS
-- Databricks
-- Apache Spark
-- Apache Airflow
-- PyData packages
-- Apache Flink (wish to use more)
-- Apache Pulsar (wish to use much more)
-#### Agile and Modern Software Development Tools
-- Jira Software
-- Confluence
-- Jira Service Management
-- Trello
-- Halp
-- Slack
 
-### ⌨️ I am currently using a [Boardsource lulu](https://boardsource.xyz/store/61d0b772319a1f3cc53ba2fb) with Alpaca V2 linear switches lubed with 205g0 and official Star Wars Galatic Empire DSA keycaps from [NovelKeys](https://novelkeys.com/products/star-wars-galactic-empire-dsa-keycap-set) as my daily driver. What does it look like? [Find out](https://imgur.com/a/aZB5aaT)! Check out my [QMK Layout](https://github.com/DataDavD/qmk_firmware/blob/ddansby/lulu-keymap/keyboards/boardsource/lulu/keymaps/datadavd/keymap.c) too!
+### ⌨️ I am currently using a [Boardsource lulu](https://boardsource.xyz/store/61d0b772319a1f3cc53ba2fb) with Alpaca V2 linear switches lubed with 205g0 and official Star Wars Galactic Empire DSA keycaps from [NovelKeys](https://novelkeys.com/products/star-wars-galactic-empire-dsa-keycap-set) as my daily driver. What does it look like? [Find out](https://imgur.com/a/aZB5aaT)! Check out my [QMK Layout](https://github.com/codeaucafe/qmk_firmware/blob/ddansby/lulu-keymap/keyboards/boardsource/lulu/keymaps/datadavd/keymap.c) too!
 
 ### 📫 How to reach me
 <a href="https://www.linkedin.com/in/davidldansby/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <!--
-**DataDavD/DataDavD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**codeaucafe/codeaucafe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
