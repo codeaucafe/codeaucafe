@@ -1,4 +1,4 @@
-### 👋 Hey there friend!!! My name is **David Dansby**. I am a software engineer at Bestow. I have a strong passion for distributed systems, microservices, secure data processing systems, Go, Python, and rare single-origin coffees. When time allows you can find me tinkering with one of my split mechanical keyboards. Recently, I've been getting into home automation. 
+### 👋 Hey there friend!!! I'm **David**. I am a Senior Software Engineer at Bestow. I have a strong passion for distributed systems, microservices, secure data processing systems, Go, Python, and rare single-origin coffees. When time allows you can find me tinkering with one of my split mechanical keyboards. 
 
 ### 💪 I’m currently a Senior Software Engineer at Bestow [(check us out)](https://techcrunch.com/2025/05/13/insurtech-bestow-lands-120m-series-d-from-goldman-sachs-smith-point-capital/). Previously, I was a software engineer at Atlassian on the Jira Align and Bitbucket Cloud teams.
 
