@@ -48,7 +48,7 @@
 
 #### Software Engineering
 - Backend Development: distributed systems, microservices, Django, Go net/http
-- API Development: RESTful services, gRPC with Protocol Buffers
+- API Development: RESTful services, gRPC with Protocol Buffers, Buf ecosystem
 - Concurrent Programming: Go (goroutines, channels, select, sync package - Mutex, WaitGroup, atomic), Python (threading - Lock, Event, Semaphore, asyncio, concurrent.futures, multiprocessing)
 - Frontend: React
 - System Design: scalability, high availability, fault tolerance
