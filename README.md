@@ -15,10 +15,10 @@
 - [v1.53.5](https://github.com/dolthub/dolt/releases/tag/v1.53.5): Add CLI feature to support importing CSV and PSV files without header rows. [Pull Request #9204](https://github.com/dolthub/dolt/pull/9204)
 
 [delve](https://github.com/go-delve/delve)
-- [Pull Request #3987](https://github.com/go-delve/delve/pull/3987): Fix build version bug; use commit instead of version file blob hash.
+- [v1.25.0](https://github.com/go-delve/delve/releases/tag/v1.25.0): Fix build version bug; use commit instead of version file blob hash. [Pull Request #3987](https://github.com/go-delve/delve/pull/3987)
 
 [in-toto/witness](https://github.com/in-toto/witness)
-- [v0.2.0](https://github.com/in-toto/witness/releases/tag/v0.2.0): Add the ability for users to set what hash algorithms they want to use for digest calculation. [Pull Request #292](https://github.com/in-toto/witness/pull/292)
+- [v0.2.0](https://github.com/in-toto/witness/releases/tag/v0.2.0): Add the feature for users to set what hash algorithms they want to use for digest calculation. [Pull Request #292](https://github.com/in-toto/witness/pull/292)
 - [v0.5.2](https://github.com/in-toto/witness/releases/tag/v0.5.2): Trivial nit change to add shorthand vars to two common witness run options. [Pull Request #441](https://github.com/in-toto/witness/pull/441)
 
 [lakeFS](https://github.com/treeverse/lakeFS)
@@ -28,7 +28,7 @@
 - [v0.63.0](https://github.com/treeverse/lakeFS/releases/tag/v0.63.0): Fix 'Create a Repo' minimum character limit wording. [Pull Request #3155](https://github.com/treeverse/lakeFS/pull/3155).
 
 [go-bitbucket](https://github.com/ktrysmt/go-bitbucket)
-- [v0.9.21](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.21): Added Diff-Stat functionality. [Pull Request #145](https://github.com/ktrysmt/go-bitbucket/pull/145).
+- [v0.9.21](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.21): Added Diff-Stat feature. [Pull Request #145](https://github.com/ktrysmt/go-bitbucket/pull/145).
 - [v0.9.24](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.24): Created RepositoryRefsOptions type and ListRefs method. [Pull Request #155](https://github.com/ktrysmt/go-bitbucket/pull/155).
 - [v0.9.30](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.30): Update GetDiffStat functionality to filter response fields. [Pull Request #171](https://github.com/ktrysmt/go-bitbucket/pull/171).
 - [Pull Request #156](https://github.com/ktrysmt/go-bitbucket/pull/156): This PR simplifies TagOptions and BranchOptions types into a single RefOptions type (since git tags and branches are both refs) and adds DeleteBranch and DeleteTag functionality.
@@ -47,35 +47,36 @@
 - C#
 
 #### Software Engineering
-- Backend: Distributed systems and microservices
-- gRPC and Protocol Buffers (protobuf)
-- Web Development and REST APIs (Django, React, Go's net/http, etc.)
-- concurrent programming (goroutines, channel, select, asyncio, concurrent.futures, etc.)
-- software architecture and system design
-- CLI tooling: Cobra
+- Backend Development: distributed systems, microservices, Django, Go net/http
+- API Development: RESTful services, gRPC with Protocol Buffers
+- Concurrent Programming: Go (goroutines, channels, select, sync package - Mutex, WaitGroup, atomic), Python (threading - Lock, Event, Semaphore, asyncio, concurrent.futures, multiprocessing)
 - Frontend: React
+- System Design: scalability, high availability, fault tolerance
+- Architectural Patterns: event-driven architecture, event sourcing & CQRS
+- CLI Development: Cobra framework
 
 #### Tech Stack
-
 ##### Cloud & Infrastructure
-- **AWS**: SQS, Lambda, RDS (PostgreSQL), S3, EMR, EC2, SNS, ElastiCache (Redis), CDK & CloudFormation, AWS SDK (Go/Python/boto3), localstack
-- **GCP**: Cloud SQL, Pub/Sub, Google Kubernetes Engine (GKE), MemoryStore (Redis), GCP SDK (Go), Cloud Deploy
-- **Containers**: Docker, Kubernetes
+- **AWS**: EC2, RDS (PostgreSQL), SQS, SNS, S3, Lambda, EMR, ElastiCache (Redis), CDK & CloudFormation, SDK (Go/Python/boto3), LocalStack
+- **GCP**: Google Kubernetes Engine (GKE), Cloud SQL, Pub/Sub, MemoryStore (Redis), Cloud Deploy, SDK (Go)
 
-##### CI/CD & Automation
-- GitHub Actions, CircleCI, Bitbucket Pipelines, GCP Cloud Deploy
+##### Containerization
+- Docker, Kubernetes, Docker Compose
 
 ##### Databases & Storage
-- PostgreSQL, Microsoft SQL Server, Redis
+- Database: PostgreSQL, Microsoft SQL Server
+- Cache: Redis
 
-##### Observability & Operations
-- New Relic, Splunk, Sentry, Opsgenie, Statuspage, statsd
-
-##### Code Quality & Feature Management
-- SonarQube, LaunchDarkly (feature flags)
+##### DevOps & Operations
+- **CI/CD**: GitHub Actions, CircleCI, Bitbucket Pipelines, GCP Cloud Deploy
+- **Observability**: New Relic, Splunk, Sentry, StatsD
+- **Incident Management**: Opsgenie, Statuspage
+- **Code Quality**: SonarQube, LaunchDarkly (feature flags)
 
 ##### Data Engineering
-- Apache Spark, Databricks, Apache Airflow, SparkSQL, HiveSQL, Presto
+- Data Processing: Apache Spark, PySpark, Databricks
+- Workflow Orchestration: Apache Airflow
+- Big Data Query Languages: SparkSQL, HiveSQL, Presto
 
 ### ⌨️ I am currently using a [Boardsource lulu](https://boardsource.xyz/store/61d0b772319a1f3cc53ba2fb) with Alpaca V2 linear switches lubed with 205g0 and official Star Wars Galactic Empire DSA keycaps from [NovelKeys](https://novelkeys.com/products/star-wars-galactic-empire-dsa-keycap-set) as my daily driver. What does it look like? [Find out](https://imgur.com/a/aZB5aaT)! Check out my [QMK Layout](https://github.com/codeaucafe/qmk_firmware/blob/ddansby/lulu-keymap/keyboards/boardsource/lulu/keymaps/datadavd/keymap.c) too!
 
