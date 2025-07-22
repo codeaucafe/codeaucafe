@@ -11,7 +11,7 @@
 ### 📚 Outside of software engineering and tech, I'm learning French, snowboard with my brother and friends, and love traveling with my wife.
 
 ### :desktop_computer: Open Source Software Contributions:
-[dolt](https://github.com/dolthub/dolt)
+[dolthub/dolt](https://github.com/dolthub/dolt)
 - [v1.53.5](https://github.com/dolthub/dolt/releases/tag/v1.53.5): Add CLI feature to support importing CSV and PSV files without header rows. [Pull Request #9204](https://github.com/dolthub/dolt/pull/9204)
 - [v1.55.3](https://github.com/dolthub/dolt/releases/tag/v1.55.3): Add early primary key validation during table import to fail fast instead of processing entire large files with invalid primary keys.​​​​​​​​​​​​​​​​ [Pull Request #9349](https://github.com/dolthub/dolt/pull/9349)
 - [v1.55.6](https://github.com/dolthub/dolt/releases/tag/v1.55.6): Improve argument error messaging during table import. [Pull Request #9429](https://github.com/dolthub/dolt/pull/9429)
@@ -20,13 +20,13 @@
 - [v0.2.0](https://github.com/in-toto/witness/releases/tag/v0.2.0): Add the feature for users to set what hash algorithms they want to use for digest calculation. [Pull Request #292](https://github.com/in-toto/witness/pull/292)
 - [v0.5.2](https://github.com/in-toto/witness/releases/tag/v0.5.2): Trivial nit change to add shorthand vars to two common witness run options. [Pull Request #441](https://github.com/in-toto/witness/pull/441)
 
-[lakeFS](https://github.com/treeverse/lakeFS)
+[treeverse/lakeFS](https://github.com/treeverse/lakeFS)
 - [v0.48.0](https://github.com/treeverse/lakeFS/releases/tag/v0.48.0): Fixed bug to correctly return error when users navigate to routes downstream from `BaseURL`. [Pull Request #2382](https://github.com/treeverse/lakeFS/pull/2382).
 - [v0.54.0](https://github.com/treeverse/lakeFS/releases/tag/v0.54.0): Added in-app lakeFS documentation links on the Setup, Create a Repository (Modal), Branches, and Auth/Admin pages of lakeFS UI. [Pull Request #2506](https://github.com/treeverse/lakeFS/pull/2506).
 - [v0.62.0](https://github.com/treeverse/lakeFS/releases/tag/v0.62.0): Remove unused functions in tx.go. [Pull Request #3128](https://github.com/treeverse/lakeFS/pull/3128).
 - [v0.63.0](https://github.com/treeverse/lakeFS/releases/tag/v0.63.0): Fix 'Create a Repo' minimum character limit wording. [Pull Request #3155](https://github.com/treeverse/lakeFS/pull/3155).
 
-[delve](https://github.com/go-delve/delve)
+[go-delve/delve](https://github.com/go-delve/delve)
 - [v1.25.0](https://github.com/go-delve/delve/releases/tag/v1.25.0): Fix build version bug; use commit instead of version file blob hash. [Pull Request #3987](https://github.com/go-delve/delve/pull/3987)
 
 [go-bitbucket](https://github.com/ktrysmt/go-bitbucket)
