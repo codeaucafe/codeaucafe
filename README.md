@@ -16,7 +16,7 @@
 - [v1.55.3](https://github.com/dolthub/dolt/releases/tag/v1.55.3): Add early primary key validation during table import to fail fast instead of processing entire large files with invalid primary keys.​​​​​​​​​​​​​​​​ [Pull Request #9349](https://github.com/dolthub/dolt/pull/9349)
 - [v1.55.6](https://github.com/dolthub/dolt/releases/tag/v1.55.6): Improve argument error messaging during table import. [Pull Request #9429](https://github.com/dolthub/dolt/pull/9429)
 
-[in-toto/witness](https://github.com/in-toto/witness)
+[in-toto/witness](https://github.com/in-toto/witness) ([CNCF project](https://www.testifysec.com/blog/witness-donation))
 - [v0.2.0](https://github.com/in-toto/witness/releases/tag/v0.2.0): Add the feature for users to set what hash algorithms they want to use for digest calculation. [Pull Request #292](https://github.com/in-toto/witness/pull/292)
 - [v0.5.2](https://github.com/in-toto/witness/releases/tag/v0.5.2): Trivial nit change to add shorthand vars to two common witness run options. [Pull Request #441](https://github.com/in-toto/witness/pull/441)
 
