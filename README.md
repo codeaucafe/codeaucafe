@@ -43,19 +43,19 @@
 
 ### 🚀 Skills
 #### Programming Languages
-- Go
-- Python
-- JavaScript
-- C#
+- **Go**
+- **Python**
+- **JavaScript**
+- **C#**
 
 #### Software Engineering
-- Backend Development: distributed systems, microservices, Django, Go net/http
-- API Development: RESTful services, gRPC with Protocol Buffers, Buf ecosystem
-- Concurrent Programming: Go (goroutines, channels, select, sync package - Mutex, WaitGroup, atomic), Python (threading - Lock, Event, Semaphore, asyncio, concurrent.futures, multiprocessing)
-- Frontend: React
-- System Design: scalability, high availability, fault tolerance
-- Architectural Patterns: event-driven architecture, event sourcing & CQRS
-- CLI Development: Cobra framework
+- **Backend Development**: distributed systems, microservices, Django, Go net/http
+- **API Development**: RESTful services, gRPC with Protocol Buffers, Buf ecosystem
+- **Concurrent Programming**: Go (goroutines, channels, select, sync package - Mutex, WaitGroup, atomic), Python (threading - Lock, Event, Semaphore, asyncio, concurrent.futures, multiprocessing)
+- **Frontend**: React
+- **System Design**: scalability, high availability, fault tolerance
+- **Architectural Patterns**: event-driven architecture, event sourcing & CQRS
+- **CLI Development**: Cobra framework (Go)
 
 #### Tech Stack
 ##### Cloud & Infrastructure
@@ -63,11 +63,13 @@
 - **GCP**: Google Kubernetes Engine (GKE), Cloud SQL, Pub/Sub, MemoryStore (Redis), Cloud Deploy, SDK (Go)
 
 ##### Containerization
-- Docker, Kubernetes, Docker Compose
+- **Kubernetes**
+- **Docker**
+- **Docker Compose**
 
 ##### Databases & Storage
-- Database: PostgreSQL, Microsoft SQL Server
-- Cache: Redis
+- **Database**: PostgreSQL, Microsoft SQL Server
+- **Cache**: Redis
 
 ##### DevOps & Operations
 - **CI/CD**: GitHub Actions, CircleCI, Bitbucket Pipelines, GCP Cloud Deploy
@@ -76,9 +78,9 @@
 - **Code Quality**: SonarQube, LaunchDarkly (feature flags)
 
 ##### Data Engineering
-- Data Processing: Apache Spark, PySpark, Databricks
-- Workflow Orchestration: Apache Airflow
-- Big Data Query Languages: SparkSQL, HiveSQL, Presto
+- **Data Processing**: Apache Spark, PySpark, Databricks
+- **Workflow Orchestration**: Apache Airflow
+- **Big Data Query Languages**: SparkSQL, HiveSQL, Presto
 
 ### ⌨️ Mechanical Keyboards
 - daily driver: Boardsource lulu ergonomic mechanical keyboard with Alpaca V2 linear switches lubed with 205g0 and official Star Wars Galactic Empire DSA keycaps from [NovelKeys](https://novelkeys.com/products/star-wars-galactic-empire-dsa-keycap-set). What does it look like? [Find out](https://imgur.com/a/daily-driver-lulu-uxowLYo)! Check out my [QMK Layout](https://github.com/codeaucafe/qmk_firmware/blob/ddansby/lulu-keymap/keyboards/boardsource/lulu/keymaps/datadavd/keymap.c) too!
