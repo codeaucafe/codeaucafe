@@ -2,7 +2,7 @@
 
 ### 💪 I’m currently a Senior Software Engineer at Bestow [(check us out)](https://techcrunch.com/2025/05/13/insurtech-bestow-lands-120m-series-d-from-goldman-sachs-smith-point-capital/). Previously, I was a software engineer at Atlassian on the Jira Align and Bitbucket Cloud teams.
 
-### 📰 Note: I previously went by DataDavd/datadavd online (a relic from my data engineering days), but now use codeaucafe as my GitHub username.
+### 📰 Note: I previously went by DataDavd/datadavd online (a relic from my data engineering days), but now use codeaucafe as my GitHub username. Also, if you see github/CSddansby come up in your searches of me that is my old Credit Sesame organization GitHub account that Credit Sesame never removed after I left. So, please ignore CSDansby as this (codeaucafe) is my primary GitHub personally and professionally (currently).
 
 ### :mount_fuji: I'm located in the greater Seattle area.
 
