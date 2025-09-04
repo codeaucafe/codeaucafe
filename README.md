@@ -1,15 +1,18 @@
+## Intro
 ### 👋 Hey there friend!!! I'm **David**. I am a Senior Software Engineer at Bestow. I have a strong passion for distributed systems, microservices, secure data processing systems, Go, Python, and rare single-origin coffees. When time allows you can find me tinkering with one of my split mechanical keyboards. 
 
 ### 💪 I’m currently a Senior Software Engineer at Bestow [(check us out)](https://techcrunch.com/2025/05/13/insurtech-bestow-lands-120m-series-d-from-goldman-sachs-smith-point-capital/). Previously, I was a software engineer at Atlassian on the Jira Align and Bitbucket Cloud teams.
 
 ### 📰 Note: I previously went by DataDavd/datadavd online (a relic from my data engineering days), but now use codeaucafe as my GitHub username. Also, if you see github/CSddansby come up in your searches of me that is my old Credit Sesame organization GitHub account that Credit Sesame never removed after I left. So, please ignore CSDansby as this (codeaucafe) is my primary GitHub personally and professionally (currently).
 
+## Background
 ### :mount_fuji: I'm located in the greater Seattle area.
 
 ### 💻 Outside of work I'm constantly learning and improving my skills. I like doing LeetCode, improving my knowledge of various software system designs, reading software-related books, and improving my Go knowledge.
 
 ### 📚 Outside of software engineering and tech, I'm learning French, snowboard with my brother and friends, and love traveling with my wife.
 
+## Tech Contributions
 ### :desktop_computer: Open Source Software Contributions:
 [dolthub/dolt](https://github.com/dolthub/dolt)
 - [v1.53.5](https://github.com/dolthub/dolt/releases/tag/v1.53.5): Add CLI feature to support importing CSV and PSV files without header rows. [Pull Request #9204](https://github.com/dolthub/dolt/pull/9204)
@@ -38,17 +41,18 @@
 [diagrams](https://github.com/mingrammer/diagrams)
 - [v0.23.2](https://github.com/mingrammer/diagrams/discussions/828#discussioncomment-4673351): Update GCP icons using the [official, updated GCP icons](https://cloud.google.com/icons). [Pull Request #666](https://github.com/mingrammer/diagrams/pull/666).
 
+## Misc 
 ### I sign all my commits
 ![Github All Contributors](https://img.shields.io/badge/codeaucafe-Verified-brightgreen)
 
-### 🚀 Skills
-#### Programming Languages
+## 🚀 Skills
+### Programming Languages
 - **Go**
 - **Python**
 - **JavaScript**
 - **C#**
 
-#### Software Engineering
+### Software Engineering
 - **Backend Development**: distributed systems, microservices, Django, Go net/http
 - **API Development**: RESTful services, gRPC with Protocol Buffers, Buf ecosystem
 - **Concurrent Programming**: Go (goroutines, channels, select, sync package - Mutex, WaitGroup, atomic), Python (threading - Lock, Event, Semaphore, asyncio, concurrent.futures, multiprocessing)
@@ -57,37 +61,37 @@
 - **Architectural Patterns**: event-driven architecture, event sourcing & CQRS
 - **CLI Development**: Cobra framework (Go)
 
-#### Tech Stack
-##### Cloud & Infrastructure
+### Tech Stack
+#### Cloud & Infrastructure
 - **AWS**: EC2, RDS (PostgreSQL), SQS, SNS, S3, Lambda, EMR, ElastiCache (Redis), CDK & CloudFormation, SDK (Go/Python/boto3), LocalStack
 - **GCP**: Google Kubernetes Engine (GKE), Cloud SQL, Pub/Sub, MemoryStore (Redis), Cloud Deploy, SDK (Go)
 
-##### Containerization
+#### Containerization
 - **Kubernetes**
 - **Docker**
 - **Docker Compose**
 
-##### Databases & Storage
+#### Databases & Storage
 - **Database**: PostgreSQL, Microsoft SQL Server
 - **Cache**: Redis
 
-##### DevOps & Operations
+#### DevOps & Operations
 - **CI/CD**: GitHub Actions, CircleCI, Bitbucket Pipelines, GCP Cloud Deploy
 - **Observability**: New Relic, Splunk, Sentry, StatsD
 - **Incident Management**: Opsgenie, Statuspage
 - **Code Quality**: SonarQube, LaunchDarkly (feature flags)
 
-##### Data Engineering
+#### Data Engineering
 - **Data Processing**: Apache Spark, PySpark, Databricks
 - **Workflow Orchestration**: Apache Airflow
 - **Big Data Query Languages**: SparkSQL, HiveSQL, Presto
 
-### ⌨️ Mechanical Keyboards
+## ⌨️ Mechanical Keyboards
 - daily driver: Boardsource lulu ergonomic mechanical keyboard with Alpaca V2 linear switches lubed with 205g0 and official Star Wars Galactic Empire DSA keycaps from [NovelKeys](https://novelkeys.com/products/star-wars-galactic-empire-dsa-keycap-set). What does it look like? [Find out](https://imgur.com/a/daily-driver-lulu-uxowLYo)! Check out my [QMK Layout](https://github.com/codeaucafe/qmk_firmware/blob/ddansby/lulu-keymap/keyboards/boardsource/lulu/keymaps/datadavd/keymap.c) too!
 - debug keyboard: I use a [Rama Dual Shot M6-C](https://imgur.com/a/debug-keyboard-bUQWYTZ) macro keyboard with the keys mapped specifically to my custom shortcuts for easy debugging. The keyboard uses Rama artisan aluminum keycaps. Also, I use Zealio V2 65G tactile switches lubed with 205g0 with Deskeys V2 switch films.
 - travel keyboard: [Lily58](https://imgur.com/a/WlNtPUB) (which is what the Lulu is based upon) with the same keymap.
 
-### 📫 How to reach me
+## 📫 How to reach me
 <a href="https://www.linkedin.com/in/davidldansby/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <!--
