@@ -49,7 +49,7 @@
 ### Programming Languages
 - **Go**
 - **Python**
-- **JavaScript**
+- **JavaScript/TypeScript**
 - **C#**
 
 ### Software Engineering
