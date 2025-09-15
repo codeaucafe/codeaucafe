@@ -41,10 +41,6 @@
 [diagrams](https://github.com/mingrammer/diagrams)
 - [v0.23.2](https://github.com/mingrammer/diagrams/discussions/828#discussioncomment-4673351): Update GCP icons using the [official, updated GCP icons](https://cloud.google.com/icons). [Pull Request #666](https://github.com/mingrammer/diagrams/pull/666).
 
-## Misc 
-### I sign all my commits
-![Github All Contributors](https://img.shields.io/badge/codeaucafe-Verified-brightgreen)
-
 ## 🚀 Skills
 ### Programming Languages
 - **Go**
@@ -90,6 +86,10 @@
 - daily driver: Boardsource lulu ergonomic mechanical keyboard with Alpaca V2 linear switches lubed with 205g0 and official Star Wars Galactic Empire DSA keycaps from [NovelKeys](https://novelkeys.com/products/star-wars-galactic-empire-dsa-keycap-set). What does it look like? [Find out](https://imgur.com/a/daily-driver-lulu-uxowLYo)! Check out my [QMK Layout](https://github.com/codeaucafe/qmk_firmware/blob/ddansby/lulu-keymap/keyboards/boardsource/lulu/keymaps/datadavd/keymap.c) too!
 - debug keyboard: I use a [Rama Dual Shot M6-C](https://imgur.com/a/debug-keyboard-bUQWYTZ) macro keyboard with the keys mapped specifically to my custom shortcuts for easy debugging. The keyboard uses Rama artisan aluminum keycaps. Also, I use Zealio V2 65G tactile switches lubed with 205g0 with Deskeys V2 switch films.
 - travel keyboard: [Lily58](https://imgur.com/a/WlNtPUB) (which is what the Lulu is based upon) with the same keymap.
+
+## Verification
+### I sign all my commits
+![Github All Contributors](https://img.shields.io/badge/codeaucafe-Verified-brightgreen)
 
 ## 📫 How to reach me
 <a href="https://www.linkedin.com/in/davidldansby/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
