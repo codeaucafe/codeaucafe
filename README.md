@@ -12,8 +12,7 @@
 
 ### 📚 Outside of software engineering and tech, I'm learning French, snowboard with my brother and friends, and love traveling with my wife.
 
-## Tech Contributions
-### :desktop_computer: Open Source Software Contributions:
+## :desktop_computer: Open Source Software Contributions
 [dolthub/dolt](https://github.com/dolthub/dolt)
 - [v1.53.5](https://github.com/dolthub/dolt/releases/tag/v1.53.5): Add CLI feature to support importing CSV and PSV files without header rows. [Pull Request #9204](https://github.com/dolthub/dolt/pull/9204)
 - [v1.55.3](https://github.com/dolthub/dolt/releases/tag/v1.55.3): Add early primary key validation during table import to fail fast instead of processing entire large files with invalid primary keys.​​​​​​​​​​​​​​​​ [Pull Request #9349](https://github.com/dolthub/dolt/pull/9349)
