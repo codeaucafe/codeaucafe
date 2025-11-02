@@ -73,7 +73,7 @@
 #### DevOps & Operations
 - **CI/CD**: GitHub Actions, CircleCI, Bitbucket Pipelines, GCP Cloud Deploy
 - **Observability**: New Relic, Splunk, Sentry, StatsD
-- **Incident Management**: Opsgenie, Statuspage
+- **Incident Management**: incident.io, Opsgenie, Statuspage
 - **Code Quality**: SonarQube, LaunchDarkly (feature flags)
 
 #### Data Engineering
