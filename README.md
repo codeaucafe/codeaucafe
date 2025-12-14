@@ -18,7 +18,7 @@
 - [v1.55.3](https://github.com/dolthub/dolt/releases/tag/v1.55.3): Add early primary key validation during table import to fail fast instead of processing entire large files with invalid primary keys.​​​​​​​​​​​​​​​​ [Pull Request #9349](https://github.com/dolthub/dolt/pull/9349)
 - [v1.55.6](https://github.com/dolthub/dolt/releases/tag/v1.55.6): Improve argument error messaging during table import. [Pull Request #9429](https://github.com/dolthub/dolt/pull/9429)
 - [v1.76.4](https://github.com/dolthub/dolt/releases/tag/v1.76.4): Make `dolt_diff_summary` respect `dolt_ignore` patterns. [Pull Request #9946](https://github.com/dolthub/dolt/pull/9946)
-- [Pull Request #9946](https://github.com/dolthub/dolt/pull/9946): Add `--filter` option for `dolt diff`.
+- [v1.79.0](https://github.com/dolthub/dolt/releases/tag/v1.79.0): Add `--filter` option for `dolt diff`. [Pull Request #10030](https://github.com/dolthub/dolt/pull/10030)
 
 [in-toto/witness](https://github.com/in-toto/witness) ([CNCF project](https://www.testifysec.com/blog/witness-donation))
 - [v0.2.0](https://github.com/in-toto/witness/releases/tag/v0.2.0): Add the feature for users to set what hash algorithms they want to use for digest calculation. [Pull Request #292](https://github.com/in-toto/witness/pull/292)
