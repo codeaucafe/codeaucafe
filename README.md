@@ -8,7 +8,7 @@
 ## Background
 ### :mount_fuji: I'm located in the greater Seattle area.
 
-### 💻 Outside of work I'm constantly learning and improving my skills. I like doing LeetCode, improving my knowledge of various software system designs, reading software-related books, and improving my Go knowledge.
+### 💻 Beyond my day job, I'm committed to continuous growth: contributing to open source (mainly [Dolt](https://github.com/dolthub/dolt) lately), reading about and exploring software architecture, distributed systems, programming languages, and software design patterns, and advancing my Go proficiency.
 
 ### 📚 Outside of software engineering and tech, I'm learning French, snowboard with my brother and friends, and love traveling with my wife.
 
