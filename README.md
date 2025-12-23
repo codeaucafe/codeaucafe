@@ -20,6 +20,9 @@
 - [v1.76.4](https://github.com/dolthub/dolt/releases/tag/v1.76.4): Make `dolt_diff_summary` respect `dolt_ignore` patterns. [Pull Request #9946](https://github.com/dolthub/dolt/pull/9946)
 - [v1.79.0](https://github.com/dolthub/dolt/releases/tag/v1.79.0): Add `--filter` option for `dolt diff`. [Pull Request #10030](https://github.com/dolthub/dolt/pull/10030)
 
+[dolthub/doltgresql](https://github.com/dolthub/doltgresql)
+- [Pull Request #2139](https://github.com/dolthub/doltgresql/pull/2139): Add ValidateCreateSchema analyzer rule to ensure CREATE SCHEMA fails gracefully when the database context is invalid.
+
 [in-toto/witness](https://github.com/in-toto/witness) ([CNCF project](https://www.testifysec.com/blog/witness-donation))
 - [v0.2.0](https://github.com/in-toto/witness/releases/tag/v0.2.0): Add the feature for users to set what hash algorithms they want to use for digest calculation. [Pull Request #292](https://github.com/in-toto/witness/pull/292)
 - [v0.5.2](https://github.com/in-toto/witness/releases/tag/v0.5.2): Small change to add shorthand vars to two common witness run options. [Pull Request #441](https://github.com/in-toto/witness/pull/441)
