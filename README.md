@@ -87,7 +87,7 @@
 - **Big Data Query Languages**: SparkSQL, HiveSQL, Presto
 
 ## ⌨️ Mechanical Keyboards
-- daily driver: Boardsource lulu ergonomic mechanical keyboard with Alpaca V2 linear switches lubed with 205g0 and official Star Wars Galactic Empire DSA keycaps from [NovelKeys](https://novelkeys.com/products/star-wars-galactic-empire-dsa-keycap-set). What does it look like? [Find out](https://imgur.com/a/daily-driver-lulu-uxowLYo)! Check out my [QMK Layout](https://github.com/codeaucafe/qmk_firmware/blob/ddansby/lulu-keymap/keyboards/boardsource/lulu/keymaps/datadavd/keymap.c) too!
+- daily driver: Boardsource lulu ergonomic mechanical keyboard with Alpaca V2 linear switches lubed with 205g0, Deskeys V2 switch films, and official Star Wars Galactic Empire DSA keycaps from [NovelKeys](https://novelkeys.com/products/star-wars-galactic-empire-dsa-keycap-set). What does it look like? [Find out](https://imgur.com/a/daily-driver-lulu-uxowLYo)! Check out my [QMK Layout](https://github.com/codeaucafe/qmk_firmware/blob/ddansby/lulu-keymap/keyboards/boardsource/lulu/keymaps/datadavd/keymap.c) too!
 - debug keyboard: I use a [Rama Dual Shot M6-C](https://imgur.com/a/debug-keyboard-bUQWYTZ) macro keyboard with the keys mapped specifically to my custom shortcuts for easy debugging. The keyboard uses Rama artisan aluminum keycaps. Also, I use Zealio V2 65G tactile switches lubed with 205g0 with Deskeys V2 switch films.
 - travel keyboard: [Lily58](https://imgur.com/a/WlNtPUB) (which is what the Lulu is based upon) with the same keymap.
 
