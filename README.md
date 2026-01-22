@@ -21,7 +21,7 @@
 - [v1.79.0](https://github.com/dolthub/dolt/releases/tag/v1.79.0): Add `--filter` option for `dolt diff`. [Pull Request #10030](https://github.com/dolthub/dolt/pull/10030)
 
 [dolthub/doltgresql](https://github.com/dolthub/doltgresql)
-- [Pull Request #2139](https://github.com/dolthub/doltgresql/pull/2139): Add ValidateCreateSchema analyzer rule to ensure CREATE SCHEMA fails gracefully when the database context is invalid.
+- [v0.54.8](https://github.com/dolthub/doltgresql/releases/tag/v0.54.8): Add ValidateCreateSchema analyzer rule to ensure CREATE SCHEMA fails gracefully when the database context is invalid. [Pull Request #2139](https://github.com/dolthub/doltgresql/pull/2139)
 
 [in-toto/witness](https://github.com/in-toto/witness) ([CNCF project](https://www.testifysec.com/blog/witness-donation))
 - [v0.2.0](https://github.com/in-toto/witness/releases/tag/v0.2.0): Add the feature for users to set what hash algorithms they want to use for digest calculation. [Pull Request #292](https://github.com/in-toto/witness/pull/292)
