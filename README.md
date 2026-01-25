@@ -19,17 +19,22 @@
 - [v1.55.6](https://github.com/dolthub/dolt/releases/tag/v1.55.6): Improve argument error messaging during table import. [Pull Request #9429](https://github.com/dolthub/dolt/pull/9429)
 - [v1.76.4](https://github.com/dolthub/dolt/releases/tag/v1.76.4): Make `dolt_diff_summary` respect `dolt_ignore` patterns. [Pull Request #9946](https://github.com/dolthub/dolt/pull/9946)
 - [v1.79.0](https://github.com/dolthub/dolt/releases/tag/v1.79.0): Add `--filter` option for `dolt diff`. [Pull Request #10030](https://github.com/dolthub/dolt/pull/10030)
+- [v1.81.2](https://github.com/dolthub/dolt/releases/tag/v1.81.2): Add new `dolt_status_ignored` system table. [Pull Request #10227]([https://github.com/dolthub/dolt/pull/10030](https://github.com/dolthub/dolt/pull/10227))
 
 [dolthub/doltgresql](https://github.com/dolthub/doltgresql)
-- [v0.54.8](https://github.com/dolthub/doltgresql/releases/tag/v0.54.8): Add ValidateCreateSchema analyzer rule to ensure CREATE SCHEMA fails gracefully when the database context is invalid. [Pull Request #2139](https://github.com/dolthub/doltgresql/pull/2139)
+- [v0.54.8](https://github.com/dolthub/doltgresql/releases/tag/v0.54.8): Fix DESCRIBE dolt.status syntax error by adding STATUS to the simple_ident grammar rule, which previously didn't recognize unreserved keywords as valid identifiers.. [Pull Request #2136](https://github.com/dolthub/doltgresql/pull/2136)
+- [v0.54.8](https://github.com/dolthub/doltgresql/releases/tag/v0.54.8): Remove outdated skip list entries for OR index tests given dolthub/doltgresql#1868 is now fixed by dolthub/doltgresql#2123. [Pull Request #2137](https://github.com/dolthub/doltgresql/pull/2137)
+- [v0.54.8](https://github.com/dolthub/doltgresql/releases/tag/v0.54.8): Unskip the `SELECT DOLT_CLEAN()` zero-argument smoke tests given dolthub/doltgresql#1361 is now fixed by dolthub/doltgresql#1763. [Pull Request #2138](https://github.com/dolthub/doltgresql/pull/2138)
+- [v0.54.8](https://github.com/dolthub/doltgresql/releases/tag/v0.54.8): Add ValidateCreateSchema analyzer rule to ensure `CREATE SCHEMA` fails gracefully when the database context is invalid. [Pull Request #2139](https://github.com/dolthub/doltgresql/pull/2139)
+- [Pull Request #2187](https://github.com/dolthub/doltgresql/pull/2187): Add `dolt_status_ignored` system table adapter for new Dolt system table added in dolthub/dolt#10227.
 
 [in-toto/witness](https://github.com/in-toto/witness) ([CNCF project](https://www.testifysec.com/blog/witness-donation))
 - [v0.2.0](https://github.com/in-toto/witness/releases/tag/v0.2.0): Add the feature for users to set what hash algorithms they want to use for digest calculation. [Pull Request #292](https://github.com/in-toto/witness/pull/292)
 - [v0.5.2](https://github.com/in-toto/witness/releases/tag/v0.5.2): Small change to add shorthand vars to two common witness run options. [Pull Request #441](https://github.com/in-toto/witness/pull/441)
 
 [treeverse/lakeFS](https://github.com/treeverse/lakeFS)
-- [v0.48.0](https://github.com/treeverse/lakeFS/releases/tag/v0.48.0): Fixed bug to correctly return error when users navigate to routes downstream from `BaseURL`. [Pull Request #2382](https://github.com/treeverse/lakeFS/pull/2382).
-- [v0.54.0](https://github.com/treeverse/lakeFS/releases/tag/v0.54.0): Added in-app lakeFS documentation links on the Setup, Create a Repository (Modal), Branches, and Auth/Admin pages of lakeFS UI. [Pull Request #2506](https://github.com/treeverse/lakeFS/pull/2506).
+- [v0.48.0](https://github.com/treeverse/lakeFS/releases/tag/v0.48.0): Fix bug to correctly return error when users navigate to routes downstream from `BaseURL`. [Pull Request #2382](https://github.com/treeverse/lakeFS/pull/2382).
+- [v0.54.0](https://github.com/treeverse/lakeFS/releases/tag/v0.54.0): Add in-app lakeFS documentation links on the Setup, Create a Repository (Modal), Branches, and Auth/Admin pages of lakeFS UI. [Pull Request #2506](https://github.com/treeverse/lakeFS/pull/2506).
 - [v0.62.0](https://github.com/treeverse/lakeFS/releases/tag/v0.62.0): Remove unused functions in tx.go. [Pull Request #3128](https://github.com/treeverse/lakeFS/pull/3128).
 - [v0.63.0](https://github.com/treeverse/lakeFS/releases/tag/v0.63.0): Fix 'Create a Repo' minimum character limit wording. [Pull Request #3155](https://github.com/treeverse/lakeFS/pull/3155).
 
@@ -37,8 +42,8 @@
 - [v1.25.0](https://github.com/go-delve/delve/releases/tag/v1.25.0): Fix build version bug; use commit instead of version file blob hash. [Pull Request #3987](https://github.com/go-delve/delve/pull/3987)
 
 [go-bitbucket](https://github.com/ktrysmt/go-bitbucket)
-- [v0.9.21](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.21): Added Diff-Stat feature. [Pull Request #145](https://github.com/ktrysmt/go-bitbucket/pull/145).
-- [v0.9.24](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.24): Created RepositoryRefsOptions type and ListRefs method. [Pull Request #155](https://github.com/ktrysmt/go-bitbucket/pull/155).
+- [v0.9.21](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.21): Add Diff-Stat feature. [Pull Request #145](https://github.com/ktrysmt/go-bitbucket/pull/145).
+- [v0.9.24](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.24): Create RepositoryRefsOptions type and ListRefs method. [Pull Request #155](https://github.com/ktrysmt/go-bitbucket/pull/155).
 - [v0.9.30](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.30): Update GetDiffStat functionality to filter response fields. [Pull Request #171](https://github.com/ktrysmt/go-bitbucket/pull/171).
 - [Pull Request #156](https://github.com/ktrysmt/go-bitbucket/pull/156): This PR simplifies TagOptions and BranchOptions types into a single RefOptions type (since git tags and branches are both refs) and adds DeleteBranch and DeleteTag functionality.
 
