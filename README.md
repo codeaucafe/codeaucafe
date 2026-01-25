@@ -1,20 +1,20 @@
 ## Intro
-### 👋 Hey there friend!!! I'm **David**. I am a Senior Software Engineer at Bestow. I have a strong passion for distributed systems, microservices, secure data processing systems, Go, Python, and rare single-origin coffees. When time allows you can find me tinkering with one of my split mechanical keyboards. 
+### 👋 Hey there friend!!! I'm **David**. I am a Senior Software Engineer at Bestow. I have a strong passion for distributed systems, microservices, secure data processing systems, Go, Python, and rare single-origin coffees. When time allows, you can find me tinkering with one of my split mechanical keyboards.
 
 ### 🖥️ I’m currently a Senior Software Engineer at Bestow [(check us out)](https://techcrunch.com/2025/05/13/insurtech-bestow-lands-120m-series-d-from-goldman-sachs-smith-point-capital/). Previously, I was a software engineer at Atlassian on the Jira Align and Bitbucket Cloud teams.
 
-### 📰 Note: I previously went by DataDavd/datadavd online (a relic from my data engineering days), but now use codeaucafe as my GitHub username. Also, if you see github/CSddansby come up in your searches of me that is my old Credit Sesame organization GitHub account that Credit Sesame never removed after I left. So, please ignore CSDansby as this (codeaucafe) is my primary GitHub personally and professionally (currently).
+### 📰 Note: I previously went by DataDavd/datadavd online (a relic from my data engineering days), but now use `codeaucafe` as my GitHub username. Also, if you see `github/CSddansby` come up in your searches of me that is my old Credit Sesame organization GitHub account that Credit Sesame never removed after I left. So, please ignore `CSddansby` as this (`codeaucafe`) is my primary GitHub personally and professionally (currently).
 
 ## Background
 ### :mount_fuji: I'm located in the greater Seattle area.
 
-### 💻 Beyond my day job, I'm committed to continuous growth: contributing to open source (mainly [Dolt](https://github.com/dolthub/dolt) lately, which is a MySQL-compatible SQL database with Git-like version control built in written in Go), reading about and exploring software architecture, distributed systems, programming languages, and software design patterns, and advancing my Go proficiency.
+### 💻 Beyond my day job, I'm committed to continuous growth: contributing to open source (mainly [Dolt](https://github.com/dolthub/dolt) lately, which is a MySQL-compatible SQL database with Git-like version control, written in Go), reading about and exploring software architecture, distributed systems, programming languages, and software design patterns, and advancing my Go proficiency.
 
-### 📚 Outside of software engineering and tech, I'm learning French, snowboard with my brother and friends, and love traveling with my wife.
+### 📚 Outside of software engineering and tech, I enjoy learning French, snowboarding and hiking with my brother and friends, and traveling with my wife.
 
 ## :desktop_computer: Open Source Software Contributions
 [dolthub/dolt](https://github.com/dolthub/dolt)
-- [v1.81.2](https://github.com/dolthub/dolt/releases/tag/v1.81.2) (2026-01): Add new `dolt_status_ignored` system table. [Pull Request #10227]([https://github.com/dolthub/dolt/pull/10030](https://github.com/dolthub/dolt/pull/10227))
+- [v1.81.2](https://github.com/dolthub/dolt/releases/tag/v1.81.2) (2026-01): Add new `dolt_status_ignored` system table. [Pull Request #10227](https://github.com/dolthub/dolt/pull/10227)
 - [v1.79.0](https://github.com/dolthub/dolt/releases/tag/v1.79.0) (2025-12): Add `--filter` option for `dolt diff`. [Pull Request #10030](https://github.com/dolthub/dolt/pull/10030)
 - [v1.76.4](https://github.com/dolthub/dolt/releases/tag/v1.76.4) (2025-11): Make `dolt_diff_summary` respect `dolt_ignore` patterns. [Pull Request #9946](https://github.com/dolthub/dolt/pull/9946)
 - [v1.55.6](https://github.com/dolthub/dolt/releases/tag/v1.55.6) (2025-07): Improve argument error messaging during table import. [Pull Request #9429](https://github.com/dolthub/dolt/pull/9429)
@@ -33,22 +33,22 @@
 - [v0.2.0](https://github.com/in-toto/witness/releases/tag/v0.2.0) (2023-12): Add the feature for users to set what hash algorithms they want to use for digest calculation. [Pull Request #292](https://github.com/in-toto/witness/pull/292)
 
 [treeverse/lakeFS](https://github.com/treeverse/lakeFS)
-- [v0.63.0](https://github.com/treeverse/lakeFS/releases/tag/v0.63.0) (2022-04): Fix 'Create a Repo' minimum character limit wording. [Pull Request #3155](https://github.com/treeverse/lakeFS/pull/3155).
-- [v0.62.0](https://github.com/treeverse/lakeFS/releases/tag/v0.62.0) (2022-04): Remove unused functions in tx.go. [Pull Request #3128](https://github.com/treeverse/lakeFS/pull/3128).
-- [v0.54.0](https://github.com/treeverse/lakeFS/releases/tag/v0.54.0) (2021-11): Add in-app lakeFS documentation links on the Setup, Create a Repository (Modal), Branches, and Auth/Admin pages of lakeFS UI. [Pull Request #2506](https://github.com/treeverse/lakeFS/pull/2506).
-- [v0.48.0](https://github.com/treeverse/lakeFS/releases/tag/v0.48.0) (2021-08): Fix bug to correctly return error when users navigate to routes downstream from `BaseURL`. [Pull Request #2382](https://github.com/treeverse/lakeFS/pull/2382).
+- [v0.63.0](https://github.com/treeverse/lakeFS/releases/tag/v0.63.0) (2022-04): Fix 'Create a Repo' minimum character limit wording. [Pull Request #3155](https://github.com/treeverse/lakeFS/pull/3155)
+- [v0.62.0](https://github.com/treeverse/lakeFS/releases/tag/v0.62.0) (2022-04): Remove unused functions in tx.go. [Pull Request #3128](https://github.com/treeverse/lakeFS/pull/3128)
+- [v0.54.0](https://github.com/treeverse/lakeFS/releases/tag/v0.54.0) (2021-11): Add in-app lakeFS documentation links on the Setup, Create a Repository (Modal), Branches, and Auth/Admin pages of lakeFS UI. [Pull Request #2506](https://github.com/treeverse/lakeFS/pull/2506)
+- [v0.48.0](https://github.com/treeverse/lakeFS/releases/tag/v0.48.0) (2021-08): Fix bug to correctly return error when users navigate to routes downstream from `BaseURL`. [Pull Request #2382](https://github.com/treeverse/lakeFS/pull/2382)
 
 [go-delve/delve](https://github.com/go-delve/delve)
 - [v1.25.0](https://github.com/go-delve/delve/releases/tag/v1.25.0) (2025-06): Fix build version bug; use commit instead of version file blob hash. [Pull Request #3987](https://github.com/go-delve/delve/pull/3987)
 
-[go-bitbucket](https://github.com/ktrysmt/go-bitbucket)
-- [v0.9.30](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.30) (2021-11): Update GetDiffStat functionality to filter response fields. [Pull Request #171](https://github.com/ktrysmt/go-bitbucket/pull/171).
-- [v0.9.24](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.24) (2021-07): Create RepositoryRefsOptions type and ListRefs method. [Pull Request #155](https://github.com/ktrysmt/go-bitbucket/pull/155).
-- [v0.9.21](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.21) (2021-07): Add Diff-Stat feature. [Pull Request #145](https://github.com/ktrysmt/go-bitbucket/pull/145).
+[ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket)
+- [v0.9.30](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.30) (2021-11): Update GetDiffStat functionality to filter response fields. [Pull Request #171](https://github.com/ktrysmt/go-bitbucket/pull/171)
+- [v0.9.24](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.24) (2021-07): Create RepositoryRefsOptions type and ListRefs method. [Pull Request #155](https://github.com/ktrysmt/go-bitbucket/pull/155)
+- [v0.9.21](https://github.com/ktrysmt/go-bitbucket/releases/tag/v0.9.21) (2021-07): Add Diff-Stat feature. [Pull Request #145](https://github.com/ktrysmt/go-bitbucket/pull/145)
 - [Pull Request #156](https://github.com/ktrysmt/go-bitbucket/pull/156) (2021-07): This PR simplifies TagOptions and BranchOptions types into a single RefOptions type (since git tags and branches are both refs) and adds DeleteBranch and DeleteTag functionality.
 
-[diagrams](https://github.com/mingrammer/diagrams)
-- [v0.23.2](https://github.com/mingrammer/diagrams/discussions/828#discussioncomment-4673351) (2023-01): Update GCP icons using the [official, updated GCP icons](https://cloud.google.com/icons). [Pull Request #666](https://github.com/mingrammer/diagrams/pull/666).
+[mingrammer/diagrams](https://github.com/mingrammer/diagrams)
+- [v0.23.2](https://github.com/mingrammer/diagrams/discussions/828#discussioncomment-4673351) (2023-01): Update GCP icons using the [official, updated GCP icons](https://cloud.google.com/icons). [Pull Request #666](https://github.com/mingrammer/diagrams/pull/666)
 
 ## 🚀 Skills
 ### Programming Languages
