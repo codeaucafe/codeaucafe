@@ -1,12 +1,12 @@
 ## Intro
-### 👋 Hey there friend!!! I'm **David**. I am a Senior Software Engineer at Bestow. I have a strong passion for distributed systems, microservices, secure data processing systems, Go, Python, and rare single-origin coffees. When time allows, you can find me tinkering with one of my split mechanical keyboards.
+### 👋 Hey there! I'm **David**. I am a Senior Software Engineer at Bestow. I have a strong passion for distributed systems, microservices, secure data processing systems, Go, Python, and speciality single-origin coffees.
 
 ### 🖥️ I’m currently a Senior Software Engineer at Bestow [(check us out)](https://techcrunch.com/2025/05/13/insurtech-bestow-lands-120m-series-d-from-goldman-sachs-smith-point-capital/). Previously, I was a software engineer at Atlassian on the Jira Align and Bitbucket Cloud teams.
 
-### 📰 Note: I previously went by DataDavd/datadavd online (a relic from my data engineering days), but now use `codeaucafe` as my GitHub username. Also, if you see `github/CSddansby` come up in your searches of me that is my old Credit Sesame organization GitHub account that Credit Sesame never removed after I left. So, please ignore `CSddansby` as this (`codeaucafe`) is my primary GitHub personally and professionally (currently).
+### 📰 Note: I previously went by DataDavd/datadavd online (a relic from my old data engineering days), but now use `codeaucafe` as my GitHub username. Also, if you see `github/CSddansby` come up in your searches of me that is my old Credit Sesame organization GitHub account that Credit Sesame never closed after I left. So, please ignore `CSddansby` as `codeaucafe` is now my primary GitHub username.
 
 ## Background
-### :mount_fuji: I'm located in the greater Seattle area.
+### :mount_fuji: I'm located in the Seattle area.
 
 ### 💻 Beyond my day job, I'm committed to continuous growth: contributing to open source (mainly [Dolt](https://github.com/dolthub/dolt) lately, which is a MySQL-compatible SQL database with Git-like version control, written in Go), reading about and exploring software architecture, distributed systems, programming languages, and software design patterns, and advancing my Go proficiency.
 
@@ -92,12 +92,11 @@
 - **Big Data Query Languages**: SparkSQL, HiveSQL, Presto
 
 ## ⌨️ Mechanical Keyboards
-- daily driver: Boardsource lulu ergonomic mechanical keyboard with Alpaca V2 linear switches lubed with 205g0, Deskeys V2 switch films, and official Star Wars Galactic Empire DSA keycaps from [NovelKeys](https://novelkeys.com/products/star-wars-galactic-empire-dsa-keycap-set). What does it look like? [Find out](https://imgur.com/a/daily-driver-lulu-uxowLYo)! Check out my [QMK Layout](https://github.com/codeaucafe/qmk_firmware/blob/ddansby/lulu-keymap/keyboards/boardsource/lulu/keymaps/datadavd/keymap.c) too!
+- daily driver: Boardsource lulu ergonomic mechanical keyboard with Alpaca V2 linear switches lubed with 205g0, Deskeys V2 switch films, and official Star Wars Galactic Empire DSA keycaps from [NovelKeys](https://novelkeys.com/products/star-wars-galactic-empire-dsa-keycap-set). What does it look like? [Find out](https://imgur.com/a/daily-driver-lulu-uxowLYo)! Also, if you are interested, check out my [QMK Layout](https://github.com/codeaucafe/qmk_firmware/blob/ddansby/lulu-keymap/keyboards/boardsource/lulu/keymaps/datadavd/keymap.c).
 - debug keyboard: I use a [Rama Dual Shot M6-C](https://imgur.com/a/debug-keyboard-bUQWYTZ) macro keyboard with the keys mapped specifically to my custom shortcuts for easy debugging. The keyboard uses Rama artisan aluminum keycaps. Also, I use Zealio V2 65G tactile switches lubed with 205g0 with Deskeys V2 switch films.
 - travel keyboard: [Lily58](https://imgur.com/a/WlNtPUB) (which is what the Lulu is based upon) with the same keymap.
 
-## Verification
-### I sign all my commits
+## Note on authenticity: I sign all my commits
 ![Github All Contributors](https://img.shields.io/badge/codeaucafe-Verified-brightgreen)
 
 ## 📫 How to reach me
