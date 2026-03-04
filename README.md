@@ -22,7 +22,7 @@
 - [v1.53.5](https://github.com/dolthub/dolt/releases/tag/v1.53.5) (2025-05): Add CLI feature to support importing CSV and PSV files without header rows. [Pull Request #9204](https://github.com/dolthub/dolt/pull/9204)
 
 [dolthub/doltgresql](https://github.com/dolthub/doltgresql)
-- [Pull Request #2187](https://github.com/dolthub/doltgresql/pull/2187) (2026-02): Fix `VALUES` clause type inference.
+- [v0.55.5](https://github.com/dolthub/doltgresql/releases/tag/v0.55.5) (2026-02): Fix `VALUES` clause type inference. [Pull Request #2187](https://github.com/dolthub/doltgresql/pull/2187)
 - [v0.55.0](https://github.com/dolthub/doltgresql/releases/tag/v0.55.0) (2026-01): Add `dolt_status_ignored` system table adapter for new Dolt system table added in dolthub/dolt#10227. [Pull Request #2187](https://github.com/dolthub/doltgresql/pull/2187)
 - [v0.54.8](https://github.com/dolthub/doltgresql/releases/tag/v0.54.8) (2026-01): Add ValidateCreateSchema analyzer rule to ensure `CREATE SCHEMA` fails gracefully when the database context is invalid. [Pull Request #2139](https://github.com/dolthub/doltgresql/pull/2139)
 - [v0.54.8](https://github.com/dolthub/doltgresql/releases/tag/v0.54.8) (2026-01): Unskip the `SELECT DOLT_CLEAN()` zero-argument smoke tests given dolthub/doltgresql#1361 is now fixed by dolthub/doltgresql#1763. [Pull Request #2138](https://github.com/dolthub/doltgresql/pull/2138)
