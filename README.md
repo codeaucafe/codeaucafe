@@ -14,7 +14,7 @@
 
 ## :desktop_computer: Open Source Software Contributions
 [dolthub/dolt](https://github.com/dolthub/dolt)
-- (2026-03): Add `--no-overwrite-ignore` and `--overwrite-ignore` to `dolt checkout` to abort or allow branch switches that would overwrite ignored tables. [Pull Request #10549](https://github.com/dolthub/dolt/pull/10549)
+- [v1.84.1](https://github.com/dolthub/dolt/releases/tag/v1.84.1) (2026-03): Add `--no-overwrite-ignore` and `--overwrite-ignore` to `dolt checkout` to abort or allow branch switches that would overwrite ignored tables. [Pull Request #10549](https://github.com/dolthub/dolt/pull/10549)
 - [v1.81.2](https://github.com/dolthub/dolt/releases/tag/v1.81.2) (2026-01): Add new `dolt_status_ignored` system table. [Pull Request #10227](https://github.com/dolthub/dolt/pull/10227)
 - [v1.79.0](https://github.com/dolthub/dolt/releases/tag/v1.79.0) (2025-12): Add `--filter` option for `dolt diff`. [Pull Request #10030](https://github.com/dolthub/dolt/pull/10030)
 - [v1.76.4](https://github.com/dolthub/dolt/releases/tag/v1.76.4) (2025-11): Make `dolt_diff_summary` respect `dolt_ignore` patterns. [Pull Request #9946](https://github.com/dolthub/dolt/pull/9946)
