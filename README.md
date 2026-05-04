@@ -14,6 +14,7 @@
 
 ## :desktop_computer: Open Source Software Contributions
 [dolthub/dolt](https://github.com/dolthub/dolt)
+- (2026-05): Fix enforce `--no-overwrite-ignore` in `DOLT_CHECKOUT -b` via direct SQL. [Pull Request #10804](https://github.com/dolthub/dolt/pull/10804)
 - [v1.86.1](https://github.com/dolthub/dolt/releases/tag/v1.86.1) (2026-04): Add `--rebase` to `dolt pull` (CLI and SQL). [Pull Request #10618](https://github.com/dolthub/dolt/pull/10618)
 - [v1.84.1](https://github.com/dolthub/dolt/releases/tag/v1.84.1) (2026-03): Add `--no-overwrite-ignore` and `--overwrite-ignore` to `dolt checkout` to abort or allow branch switches that would overwrite ignored tables. [Pull Request #10549](https://github.com/dolthub/dolt/pull/10549)
 - [v1.81.2](https://github.com/dolthub/dolt/releases/tag/v1.81.2) (2026-01): Add new `dolt_status_ignored` system table. [Pull Request #10227](https://github.com/dolthub/dolt/pull/10227)
