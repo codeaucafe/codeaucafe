@@ -14,6 +14,7 @@
 
 ## :desktop_computer: Open Source Software Contributions
 [dolthub/dolt](https://github.com/dolthub/dolt)
+- (2026-06): Fix interactive SQL shell to parse input per character instead of per line (multi-statement lines, semicolons inside quotes/comments, and empty input now behave like the MySQL client). [dolthub/dolt Pull Request #11202](https://github.com/dolthub/dolt/pull/11202), [dolthub/ishell Pull Request #8](https://github.com/dolthub/ishell/pull/8)
 - [v1.87.0](https://github.com/dolthub/dolt/releases/tag/v1.87.0) (2026-05): Fix enforce `--no-overwrite-ignore` in `DOLT_CHECKOUT -b` via direct SQL. [Pull Request #10804](https://github.com/dolthub/dolt/pull/10804)
 - [v1.86.1](https://github.com/dolthub/dolt/releases/tag/v1.86.1) (2026-04): Add `--rebase` to `dolt pull` (CLI and SQL). [Pull Request #10618](https://github.com/dolthub/dolt/pull/10618)
 - [v1.84.1](https://github.com/dolthub/dolt/releases/tag/v1.84.1) (2026-03): Add `--no-overwrite-ignore` and `--overwrite-ignore` to `dolt checkout` to abort or allow branch switches that would overwrite ignored tables. [Pull Request #10549](https://github.com/dolthub/dolt/pull/10549)
