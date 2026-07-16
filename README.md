@@ -34,6 +34,9 @@
 - [v0.54.8](https://github.com/dolthub/doltgresql/releases/tag/v0.54.8) (2026-01): Remove outdated skip list entries for OR index tests given dolthub/doltgresql#1868 is now fixed by dolthub/doltgresql#2123. [Pull Request #2137](https://github.com/dolthub/doltgresql/pull/2137)
 - [v0.54.8](https://github.com/dolthub/doltgresql/releases/tag/v0.54.8) (2026-01): Fix `DESCRIBE dolt.status` syntax error by adding `STATUS` to the `simple_ident` grammar rule, which previously didn't recognize unreserved keywords as valid identifiers. [Pull Request #2136](https://github.com/dolthub/doltgresql/pull/2136)
 
+[mennanov/fmutils](https://github.com/mennanov/fmutils)
+- [v0.3.6](https://github.com/mennanov/fmutils/releases/tag/v0.3.6) (2026-01): Fix allowing to set optional scalars to their default values. [Pull Request #24](https://github.com/mennanov/fmutils/pull/24)
+
 [in-toto/witness](https://github.com/in-toto/witness) ([CNCF project](https://www.testifysec.com/blog/witness-donation))
 - [v0.5.2](https://github.com/in-toto/witness/releases/tag/v0.5.2) (2024-06): Small change to add shorthand vars to two common witness run options. [Pull Request #441](https://github.com/in-toto/witness/pull/441)
 - [v0.2.0](https://github.com/in-toto/witness/releases/tag/v0.2.0) (2023-12): Add the feature for users to set what hash algorithms they want to use for digest calculation. [Pull Request #292](https://github.com/in-toto/witness/pull/292)
