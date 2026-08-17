@@ -1,7 +1,7 @@
 ## Intro
 ### 👋 Hey there! I'm **David**. I am a Senior Software Engineer at Bestow. I have a strong passion for distributed systems, microservices, secure data processing systems, Go, Python, and speciality single-origin coffees.
 
-### 🖥️ I’m currently a Senior Software Engineer at Bestow [(check us out)](https://techcrunch.com/2025/05/13/insurtech-bestow-lands-120m-series-d-from-goldman-sachs-smith-point-capital/). Previously, I was a software engineer at Atlassian on the Jira Align and Bitbucket Cloud teams.
+### 🖥️ I’m currently a Senior Software Engineer at Chainguard 🐙 on the [(Athena)](https://www.chainguard.dev/athena) team. Previously, I was a senior software engineer at Bestow, and before that, I was a software engineer at Atlassian on the Jira Align and Bitbucket Cloud teams.
 
 ### 📰 Note: I previously went by DataDavd/datadavd online (a relic from my old data engineering days), but now use `codeaucafe` as my GitHub username. Also, if you see `github/CSddansby` come up in your searches of me that is my old Credit Sesame organization GitHub account that Credit Sesame never closed after I left. So, please ignore `CSddansby` as `codeaucafe` is now my primary GitHub username.
 
