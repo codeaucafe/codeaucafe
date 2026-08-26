@@ -78,7 +78,7 @@
 ### Tech Stack
 #### Cloud & Infrastructure
 - **AWS**: EC2, RDS (PostgreSQL), SQS, SNS, S3, Lambda, EMR, ElastiCache (Redis), CDK & CloudFormation, SDK (Go/Python/boto3), LocalStack
-- **GCP**: Google Kubernetes Engine (GKE), Cloud SQL, Pub/Sub, MemoryStore (Redis), Cloud Deploy, SDK (Go)
+- **GCP**: Google Kubernetes Engine (GKE), Cloud SQL, Pub/Sub, Cloud Run, MemoryStore (Redis), Cloud Deploy, SDK (Go)
 
 #### Containerization
 - **Kubernetes**
@@ -90,6 +90,7 @@
 - **Cache**: Redis
 
 #### DevOps & Operations
+- **IaC:** Terraform
 - **CI/CD**: GitHub Actions, CircleCI, Bitbucket Pipelines, GCP Cloud Deploy
 - **Observability**: New Relic, Splunk, Sentry, StatsD
 - **Incident Management**: incident.io, Opsgenie, Statuspage
